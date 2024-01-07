@@ -1,6 +1,6 @@
 <p align="center">
-      <img src="https://i.ibb.co/tpwWD63/Simulator-Screenshot-i-Phone-15-Pro-2023-10-24-at-09-15-42.png" width="326">
-      <img src="https://i.ibb.co/F8jt0LG/Simulator-Screenshot-i-Phone-15-Pro-2023-10-24-at-09-15-45.png" width="326">
+      <img src="https://i.ibb.co/VpDSNXk/Simulator-Screenshot-i-Phone-15-Pro-2024-01-07-at-20-18-46.png" width="326">
+      <img src="https://i.ibb.co/9rcrnz8/Simulator-Screenshot-i-Phone-15-Pro-2024-01-07-at-20-20-06.png" width="326">
 </p>
 
 ## Weather App
